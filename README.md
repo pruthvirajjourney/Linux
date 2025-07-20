@@ -44,6 +44,4 @@ Here are some common Linux commands, especially useful in AWS:
 
 6. **Package Management (e.g., Amazon Linux/Ubuntu)**  
    - `yum install [package]`: Install a package (Amazon Linux).  
-   - `apt-get install [package]`: Install a package (Ubuntu).  
-
-Let me know if you need specific examples or more commands!
+   - `apt-get install [package]`: Install a package (Ubuntu).
